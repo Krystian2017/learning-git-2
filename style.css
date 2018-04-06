@@ -1,0 +1,11 @@
+body {
+	padding: 20px;
+}
+
+.content {
+	width: 600px;
+	margin: 0 auto;
+	text-align: justify;
+	background-color: blue;
+	padding: 20px;
+}
