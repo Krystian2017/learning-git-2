@@ -1,0 +1,4 @@
+autoprefixer-cli -o style.prefixed.css style.css
+
+cli [var checker] <.html> - Nie wiem jak użyć tego validatora. Tak 
+wpisałem jak zrozumiałem ze strony.
